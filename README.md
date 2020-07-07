@@ -1,5 +1,7 @@
 # OpenStreetCam2Video
 Python script to take tracks from OpenStreetCam and turn them into stopmotion videos<br/>
+Example Video:<br/>
+[![Example Video](https://img.youtube.com/vi/Nr8_-e8QQMo/0.jpg)](https://www.youtube.com/watch?v=Nr8_-e8QQMo)
 ## Instructions
 *YOU NEED FFMPEG AND PYTHON 3 FOR THIS.*<br/>
 *CURRENTLY THE BATCH SCRIPTS REMOVE THE NEED TO TYPE LONG COMMANDS, BUT THEY ONLY WORK ON WINDOWS. I NEED PEOPLE TO PULL REQUEST ME A TRANSLATION TO SHELL SCRIPT.* <br/>
